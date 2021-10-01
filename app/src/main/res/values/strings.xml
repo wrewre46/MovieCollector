@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Movie Collector</string>
+
+    <string name="email">이메일</string>
+    <string name="password">비밀번호</string>
+
+    <string name="signin">로그인</string>
+    <string name="success_login">Login Success</string>
+    <string name="failed_login">Login Failed</string>
+
+    <string name="signup">회원가입</string>
+    <string name="success_signup">Sign_up Success</string>
+    <string name="failed_signup">Sign_up Failed</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_google_map_test">Map</string>
+</resources>
