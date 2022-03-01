@@ -11,6 +11,6 @@
 - 구글 지도 API를 활용한 주변 영화관 찾기 기능
 ## 개발 환경 및 언어
 
-IDE : Android Studio 
-Backend : Java
-Frontend : HTML
+- IDE : Android Studio 
+- Backend : Java
+- Frontend : HTML
